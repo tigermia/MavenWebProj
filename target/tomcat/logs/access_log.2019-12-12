@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:08:50:53 -0500] "GET /MavenWebProj HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:08:50:53 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 52 http-bio-9090-exec-3 28
+0:0:0:0:0:0:0:1 - - [12/Dec/2019:08:51:45 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 58 http-bio-9090-exec-4 328

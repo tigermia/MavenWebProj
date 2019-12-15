@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:46:41 -0500] "GET / HTTP/1.1" 404 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:46:54 -0500] "GET /MavenWebProj HTTP/1.1" 302 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:46:55 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 52 http-bio-9090-exec-5 372
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:46:55 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-6 0
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:47:35 -0500] "GET /MavenWebProj HTTP/1.1" 302 - http-bio-9090-exec-7 0
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:47:35 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 52 http-bio-9090-exec-9 4
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:47:42 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 52 http-bio-9090-exec-10 2
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:53:08 -0500] "GET /MavenWebProj HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [08/Dec/2019:10:53:08 -0500] "GET /MavenWebProj/ HTTP/1.1" 200 52 http-bio-9090-exec-3 25
